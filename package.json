@@ -1,0 +1,16 @@
+{
+  "name": "the-elm-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "elm-webpack-loader": "^3.0.6",
+    "node-sass": "^3.9.3",
+    "webpack": "^1.13.2"
+  }
+}
